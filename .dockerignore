@@ -1,0 +1,26 @@
+# Git
+.git
+.gitignore
+.github
+
+# VS Code
+.vscode
+.idea
+
+# Docker
+.Docker
+
+# Python
+realState/__pycache__/
+realState/*/__pycache__/
+realState/*/*/__pycache__/
+realState/*/*/*/__pycache__/
+realState/*/*/*/*/__pycache__/
+realState/*/*/*/*/*/__pycache__/
+realState/*/*/*/*/*/*/__pycache__/
+realState/*/*/*/*/*/*/*/__pycache__/
+realState/realState/static/
+realState/media/
+.env/
+.venv/
+venv/
